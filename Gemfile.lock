@@ -19,7 +19,7 @@ GEM
       builder (~> 3.1)
       erubis (~> 2.7.0)
       rails-dom-testing (~> 1.0, >= 1.0.5)
-      rails-html-sanitizer (~> 1.0, >= 1.0.4)
+      rails-html-sanitizer (~> 1.0, >= 1.0.3)
     active_decorator (0.5.3)
     activejob (4.2.11.3)
       activesupport (= 4.2.11.3)
