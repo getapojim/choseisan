@@ -72,6 +72,7 @@ GEM
     config (1.0.0)
       activesupport (>= 3.0)
       deep_merge (~> 1.0.0)
+    crass (1.0.2)
     debug_inspector (0.0.2)
     deep_merge (1.0.1)
     devise (3.5.1)
